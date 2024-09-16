@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gelemieti.github.io/sitemap.html.gz
+Sitemap: https://gelemieti.github.io/app/sitemap.html.gz
+Sitemap: https://gelemieti.github.io/assets/sitemap.html.gz
+Sitemap: https://gelemieti.github.io/css/sitemap.html.gz
+Sitemap: https://gelemieti.github.io/includes/sitemap.html.gz
+Sitemap: https://gelemieti.github.io/item/sitemap.html.gz
+Sitemap: https://gelemieti.github.io/src/sitemap.html.gz
